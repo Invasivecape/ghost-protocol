@@ -1,5 +1,7 @@
 # 🛡️ ghost-protocol - Secure Your Privacy Effortlessly
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/invasivecape-ghost-protocol)
+
 ## 🚀 Getting Started
 
 Welcome to **ghost-protocol**, a tool designed to enhance your privacy in the digital world. With ghost-protocol, you can securely commit information and reveal it only when necessary. This guide will help you download and run the application easily.
